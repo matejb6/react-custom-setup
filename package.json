@@ -66,6 +66,9 @@
     "type": "git",
     "url": "git+https://github.com/matejb6/react-custom-setup.git"
   },
+  "bugs": {
+    "url": "https://github.com/matejb6/react-custom-setup/issues"
+  },
   "keywords": [
     "matejb6",
     "React",
@@ -78,10 +81,6 @@
     "email": "matejb6@icloud.com"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/matejb6/react-custom-setup/issues"
-  },
-  "homepage": "https://github.com/matejb6/react-custom-setup#readme",
   "engines": {
     "node": ">= 14.0.0",
     "npm": ">= 6.0.0"
