@@ -21,7 +21,7 @@ The app consists of one view which is in works.
 The app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Additional packages
-* `ESLint` added with: `ng add @angular-eslint/schematics`
+* `ESLint` added with: `npm init @eslint/config`
 * `Prettier` added with: `npm install prettier --save-dev`
 * `Husky` added with: `npm install husky --save-dev`
 * `MUI` added with: `npm install @mui/material @emotion/react @emotion/styled`
